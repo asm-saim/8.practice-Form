@@ -1,0 +1,15 @@
+form{
+    max-width: 500px;
+}
+img {
+    width: 300px;
+}
+
+.f-first{
+    border-top: 1px solid gray;
+    padding-top: 20px;
+}
+.f-second{
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
